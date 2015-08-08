@@ -2,7 +2,7 @@
     "name": "pauluswebster/shutterstock-rickshaw",
     "description": "Composer package for shutterstock/rickshaw",
     "minimum-stability": "dev",
-    "license": ["proprietary", "https://github.com/shutterstock/rickshaw/blob/master/LICENSE"],
+    "license": "proprietary",
     "homepage": "http://code.shutterstock.com/rickshaw/",
     "authors": [
       {
